@@ -2,6 +2,7 @@
 
 Este projeto utiliza a biblioteca Mediapipe para realizar a comparação de imagens de diferentes animais, como gatos brancos, gatos pretos e cachorros, utilizando embeddings de imagens.
 
+```
 ROOT_FOLDER
 │
 ├── modelos
@@ -20,3 +21,4 @@ ROOT_FOLDER
         ├── cachorro_teste.jpg
         ├── gato_branco_teste.jpg
         └── gato_preto_teste.jpg
+```
